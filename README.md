@@ -1,2 +1,2 @@
 # starter-ar-project
-A starter AR project in Unity
+A starter AR project built in Unity

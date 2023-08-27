@@ -139,6 +139,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VikingHelmet
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a20ea7771cebbda4696ef82ef45481a0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a20ea7771cebbda4696ef82ef45481a0, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -273,7 +277,7 @@ PrefabInstance:
     - target: {fileID: 3072673111959314633, guid: 6229c3363bbce7c4590b0a74326ec07c,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6229c3363bbce7c4590b0a74326ec07c, type: 3}
